@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+#main {
+	padding-top: 50px;
+	text-align: center;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.orange {
+	color: orange;
+}
+
+table {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.rank_in {
+	background-color: red;
+}
+
+.menu {
+	text-align: center;
+
+}
+
+.menu-ul {
+	text-align: left;
+	display: inline-block;
+	list-style: none;
+}
+
+.initGame-btn {
+	padding-top: 15px;
+}
+
+.inline-block {
+	padding-left: 5px;
+	padding-right: 5px;
+	display: inline-block;
+}
+
+.result-table {
+	width: 25%;
+}
+
+.result-table tr th {
+	text-align: left;
+}
